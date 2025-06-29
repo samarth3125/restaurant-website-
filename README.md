@@ -24,6 +24,61 @@ A responsive and functional restaurant website project developed using **HTML, C
 
 ---
 
+
+##🛠️ Requirements
+
+PHP 7+
+
+MySQL (XAMPP or WAMP recommended)
+
+Web browser
+
+Offline/local usage supported
+
+
+
+---
+
+##🧠 How to Run Locally
+
+1. Place the restaurant-website folder inside C:\xampp\htdocs
+
+
+2. Start Apache and MySQL from the XAMPP Control Panel
+
+
+3. Visit http://localhost/restaurant-website in your browser
+
+
+4. You’re ready to go!
+
+
+
+
+---
+
+🔗 GitHub Repository
+
+📂 github.com/samarth3125/restaurant-website
+
+
+---
+
+🆓 License
+
+This project is open-source and licensed under the MIT License.
+
+> You can freely use, modify, distribute, or build upon this project for personal or commercial use.
+A credit to the original creator is appreciated but not required.
+
+
+
+
+---
+
+> Built with ❤️ by samarth3125
+
+---
 ## 📂 Project Structure
 
 ```plaintext
