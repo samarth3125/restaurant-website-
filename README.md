@@ -25,7 +25,7 @@ A responsive and functional restaurant website project developed using **HTML, C
 ---
 
 
-##🛠️ Requirements
+## 🛠️ Requirements
 
 PHP 7+
 
@@ -39,7 +39,7 @@ Offline/local usage supported
 
 ---
 
-##🧠 How to Run Locally
+## 🧠 How to Run Locally
 
 1. Place the restaurant-website folder inside C:\xampp\htdocs
 
