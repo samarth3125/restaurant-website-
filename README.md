@@ -1,5 +1,4 @@
-# restaurant-website-
-Responsive restaurant management website using HTML, CSS, JS &amp; PHP
+
 # 🍽️ Restaurant Management Website
 
 A responsive and functional restaurant website project developed using **HTML, CSS, JavaScript, and PHP**. This project allows users to place food orders, generate receipts, track revenue, and explore business info — all in a clean UI.
@@ -43,7 +42,7 @@ restaurant-website/
 
 ---
 
-🛠️ Requirements
+##🛠️ Requirements
 
 PHP 7+
 
@@ -57,7 +56,7 @@ Offline/local usage supported
 
 ---
 
-🧠 How to Run Locally
+##🧠 How to Run Locally
 
 1. Place the restaurant-website folder inside C:\xampp\htdocs
 
