@@ -41,13 +41,13 @@ Offline/local usage supported
 
 ## 🧠 How to Run Locally
 
-1. Place the restaurant-website folder inside C:\xampp\htdocs
+1. Place the restaurant_project folder inside C:\xampp\htdocs
 
 
 2. Start Apache and MySQL from the XAMPP Control Panel
 
 
-3. Visit http://localhost/restaurant-website in your browser
+3. Visit http://localhost/restaurant_project/index.html in your browser
 
 
 4. You’re ready to go!
@@ -57,14 +57,14 @@ Offline/local usage supported
 
 ---
 
-🔗 GitHub Repository
+## 🔗 GitHub Repository
 
 📂 github.com/samarth3125/restaurant-website
 
 
 ---
 
-🆓 License
+## 🆓 License
 
 This project is open-source and licensed under the MIT License.
 
@@ -82,7 +82,7 @@ A credit to the original creator is appreciated but not required.
 ## 📂 Project Structure
 
 ```plaintext
-restaurant-website/
+restaurant_project/
 │
 ├── index.php              # Homepage (food gallery)
 ├── login.php              # Admin login
