@@ -93,7 +93,6 @@ restaurant_project/
 ├── images/                # Food images
 ├── style.css              # Main styling
 └── README.md              # Project documentation
----
-![Demo](Screenshot_20250629-213419_Gallery.jpg)
+
 
 
