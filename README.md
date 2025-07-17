@@ -94,6 +94,6 @@ restaurant_project/
 ├── style.css              # Main styling
 └── README.md              # Project documentation
 
-![Demo](Screenshot_20250629-213419_Gallery.jpg).
+![Demo](Screenshot_20250629-213419_Gallery.jpg)
 
 
